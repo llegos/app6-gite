@@ -2,17 +2,17 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
    xmlns:gap = "http://phonegap.com/ns/1.0"
-  id = "com.phonegap.app3"
+  id = "com.phonegap.app6"
   version = "1.0.0">
   
-   <name>app3 BICICLETA</name>
+   <name>app6 Batalla de puebla</name>
   
   <description>
-     Aplicacion que muestra los DATOS BICICLETAS
+     Aplicacion que muestra la historia de la batalla de puebla.
   </description>
   
  <author href="https://build.phonegap.com" email="yorschiito@gmail.com">
-   Datos del autor
+   Joge Gallegos Coyotl
  </author>
  
   <!--Personaliza la aplicacion y plataforma-->
